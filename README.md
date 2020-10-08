@@ -1,8 +1,8 @@
 ### Hi there 👋
-Thanks for checking out my page - <br/>
+**Quick Info** <br/>
 Personal Page: https://prosavage.net <br/>
 My minecraft plugin store: https://savagelabs.net <br/>
-Currently working on https://notesets.com <br/>
+Currently working on: https://notesets.com <br/>
 
 
 <!--
