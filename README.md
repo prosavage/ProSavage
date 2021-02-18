@@ -2,7 +2,8 @@
 **Quick Info** <br/>
 Personal Page: https://prosavage.net <br/>
 My minecraft plugin store: https://savagelabs.net <br/>
-Currently working on: https://notesets.com <br/>
+Currently working on: https://savagelabs.net/marketplace <br/>
+My Discord Server: https://discord.gg/savagelabs <br/>
 
 
 <!--
