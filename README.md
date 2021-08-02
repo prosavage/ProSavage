@@ -1,9 +1,8 @@
 ### Hi there 👋
 **Quick Info** <br/>
 Personal Page: https://prosavage.net <br/>
-My minecraft plugin store: https://savagelabs.net <br/>
-Currently working on: https://savagelabs.net/marketplace <br/>
-My Discord Server: https://discord.gg/savagelabs <br/>
+Currently working on: https://enigmapool.com <br/>
+My Discord Server: https://discord.gg/enigmapool <br/>
 
 
 <!--
