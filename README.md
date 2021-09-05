@@ -2,7 +2,9 @@
 **Quick Info** <br/>
 Personal Page: https://prosavage.net <br/>
 Currently working on: https://enigmapool.com <br/>
-My Discord Server: https://discord.gg/enigmapool <br/>
+
+I am no longer giving direct support for minecraft plugins. I will continue to maintain FactionsX based on issues and answer questions from discussions.
+Please use https://github.com/ProSavage/FactionsX for anything related to it.
 
 
 <!--
