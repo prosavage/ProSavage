@@ -1,9 +1,12 @@
 ### Hi there 👋
 **Quick Info** <br/>
 Personal Page: https://prosavage.net <br/>
-Currently working on: https://enigmapool.com <br/>
 
-I am no longer giving direct support for minecraft plugins. I will continue to maintain FactionsX based on issues and answer questions from discussions.
+Currently working on: https://enigmapool.com <br/>
+EnigmaPool is a GPU cryptocurrency mining pool for the currency Ergo.
+
+**Minecraft Related**
+I am no longer giving direct support for minecraft plugins.
 Please use https://github.com/ProSavage/FactionsX for anything related to it.
 
 
