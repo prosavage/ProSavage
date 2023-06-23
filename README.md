@@ -2,8 +2,8 @@
 **Quick Info** <br/>
 Personal Page: https://prosavage.net <br/>
 
-Currently working on: https://enigmapool.com <br/>
-EnigmaPool is a GPU cryptocurrency mining pool for multiple coins.
+Other Accounts:
+[naman-flexpool](https://github.com/naman-flexpool)
 
 **Minecraft Related** <br/>
 I am no longer giving direct support for minecraft plugins. <br/>
